@@ -1,7 +1,7 @@
 # RoboletricTest
-"Don't assume it, prove it." Roboletric setup to test Activities and Fragments
+"Don't assume it, prove it." [Roboletric](http://robolectric.org/) setup to test Activities and Fragments
 
-#Steps to run tests on desktop JVM
+##Steps to run tests on desktop JVM
 - git clone https://github.com/dcampogiani/RoboletricTest.git
 - cd RoboletricTest
 - Windows: gradlew.bat testDebug
